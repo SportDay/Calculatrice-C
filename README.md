@@ -1,5 +1,4 @@
 # Projet C
-Catan
 Projet de Langage C L2 de l'Université de Paris 2021/2022
 ***
 ## Compilation
