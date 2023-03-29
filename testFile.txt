@@ -1,0 +1,16 @@
+a =897676764344676545687876565
+a = a * a
+a = a - 7867656443555498966543
+b = -98987676565
+
+a=a - b
+print a
+print b
+c= a - -565543443423
+           print c
+
+       hi24 = 123
+       modulo2 = hi24 % 6
+       print hi24
+       print Hi24
+       print                         modulo2
